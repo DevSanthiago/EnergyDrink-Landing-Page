@@ -35,12 +35,12 @@ A página foi desenvolvida utilizando **HTML, CSS e JavaScript**, garantindo um 
 
 Você pode acessar a landing page diretamente pelo link abaixo:
 
-🔗 [Acesse a Energy Drink - Landing Page](https://johnreiiss.github.io/EnergyDrink-Landing-Page/)
+🔗 [Acesse a Energy Drink - Landing Page](https://devsanthiago.github.io/EnergyDrink-Landing-Page/)
 
 Ou, caso prefira clonar o repositório e rodar localmente:
 
 ```bash
-git clone https://github.com/JohnReiiss/EnergyDrink-Landing-Page.git
+git clone https://github.com/DevSanthiago/EnergyDrink-Landing-Page.git
 ```
 
 ## ✉️ Contato
