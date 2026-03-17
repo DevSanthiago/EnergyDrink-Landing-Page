@@ -35,7 +35,7 @@ A página foi desenvolvida utilizando **HTML, CSS e JavaScript**, garantindo um 
 
 Você pode acessar a landing page diretamente pelo link abaixo:
 
-🔗 [Acesse a Energy Drink - Landing Page](https://devsanthiago.github.io/EnergyDrink-Landing-Page/)
+🔗 [Acesse a Energy Drink - Landing Page](https://energydrink-landing-page.netlify.app/)
 
 Ou, caso prefira clonar o repositório e rodar localmente:
 
